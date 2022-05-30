@@ -1,4 +1,6 @@
-name: 'Iryna';
-age: '28';
-pet: 'dog Bendjamin';
+{
+"name": "Iryna",
+"age": "28",
+"pet": "dog Bendjamin"
+}
 
